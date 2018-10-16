@@ -1,1 +1,1 @@
-Program that will calculate multiple financial ratios and export to a csv.
+Program that will calculates multiple financial ratios for different fiscal years and exports results to a CSV. Financial statements are taken from Yahoo Finance, put into an excel, then converted into a CSV to be fed into the program. Nintendo financial statements were used for this example. 
